@@ -1,0 +1,8 @@
+{
+  "extends": ["next", "next/core-web-vitals"],
+  "rules": {
+    "no-console": "off", // Disables no-console rule
+    "react-hooks/rules-of-hooks": "warn", // Changes this rule to a warning
+    "next/no-img-element": "off" // Allows usage of <img> tags
+  }
+}
