@@ -208,7 +208,7 @@ export default function Home() {
         <div className="row marquee">
             <div className="track">
                 {/* Your skill logos */}
-                <img src={ml} className="skillimage" title="Machine Learning" alt="C++" height={100} width={100} border="0" />
+                <img src="https://i.ibb.co/wN8GgQ2/ml.jpg"className="skillimage" title="Machine Learning" alt="C++" height={100} width={100} border="0" />
                 <img src="https://i.ibb.co/RhBG12S/python.png" className="skillimage" alt="python" title="Python" border="0" height={100} width={100} />
                 <img src="https://i.ibb.co/KrwRwFg/html.png" className="skillimage" alt="html" border="0" title="HTML" height={100} width={100} />
                 <img src="https://i.ibb.co/f16bwzq/css.png" className="skillimage" alt="css" border="0" title="CSS" height={100} width={100} />
@@ -216,10 +216,10 @@ export default function Home() {
                 <img src="https://i.postimg.cc/mrvWcZsr/Java-Script.png" className="skillimage" alt="javascript" height={100} width={100} border="0" title="Java Script" />
                 <img src="https://i.ibb.co/vBDRGjK/node.png" className="skillimage" alt="node" border="0" height={100} width={100} title="Node JS" />
                 <img src="https://i.ibb.co/Sf2yRn8/mongo.png" className="skillimage" alt="mongo" border="0" height={100} width={100} title="Mongo DB" />
-                <img src={angular} className="skillimage" alt="C" height={100} width={100} border="0" title="Angular" />
-                <img src={aws} className="skillimage" alt="C" height={100} width={100} border="0" title="AWS" />
-                <img src={docker} className="skillimage" alt="C" height={100} width={100} border="0" title="Docker" />
-                <img src={kubernetes} className="skillimage" alt="C" height={100} width={100} title="Kubernetes" border="0" />
+                <img src="https://i.ibb.co/HzJ62HH/angular.png" className="skillimage" alt="C" height={100} width={100} border="0" title="Angular" />
+                <img src="https://i.ibb.co/cXNZ7Zj/aws.png" className="skillimage" alt="C" height={100} width={100} border="0" title="AWS" />
+                <img src="https://i.ibb.co/MRvxzP5/docker.png" className="skillimage" alt="C" height={100} width={100} border="0" title="Docker" />
+                <img src="https://i.ibb.co/nDDxcsH/kuberneties.png" className="skillimage" alt="C" height={100} width={100} title="Kubernetes" border="0" />
                 <img src={git} className="skillimage" alt="C" height={100} width={100} border="0" title="Git Hub" />
                 <img src="https://i.ibb.co/vY99LTC/polymer.png" className="skillimage" alt="Polymer" height={100} width={100} border="0" title="Polymer" />
                 <img src={ml} className="skillimage" title="Machine Learning" alt="C++" height={100} width={100} border="0" />
@@ -230,11 +230,6 @@ export default function Home() {
                 <img src="https://i.postimg.cc/mrvWcZsr/Java-Script.png" className="skillimage" alt="javascript" height={100} width={100} border="0" title="Java Script" />
                 <img src="https://i.ibb.co/vBDRGjK/node.png" className="skillimage" alt="node" border="0" height={100} width={100} title="Node JS" />
                 <img src="https://i.ibb.co/Sf2yRn8/mongo.png" className="skillimage" alt="mongo" border="0" height={100} width={100} title="Mongo DB" />
-                <img src={angular} className="skillimage" alt="C" height={100} width={100} border="0" title="Angular" />
-                <img src={aws} className="skillimage" alt="C" height={100} width={100} border="0" title="AWS" />
-                <img src={docker} className="skillimage" alt="C" height={100} width={100} border="0" title="Docker" />
-                <img src={kubernetes} className="skillimage" alt="C" height={100} width={100} title="Kubernetes" border="0" />
-                <img src={git} className="skillimage" alt="C" height={100} width={100} border="0" title="Git Hub" />
                 <img src="https://i.ibb.co/vY99LTC/polymer.png" className="skillimage" alt="Polymer" height={100} width={100} border="0" title="Polymer" />
             </div>
         </div>
